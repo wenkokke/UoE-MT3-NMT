@@ -27,7 +27,7 @@ NUM_SENTENCES = 50000
 
 DATASET = ["OPEN_SUB", "INUKTITUT"][1]
 
-EXP_NAME_PREFIX="baseline"
+EXP_NAME_PREFIX="base1"
 
 if DATASET == "OPEN_SUB":
 #-----------------------------------------------------------------
