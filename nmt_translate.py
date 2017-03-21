@@ -673,5 +673,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+    compute_dev_bleu()
 

@@ -25,7 +25,7 @@ attn_post = ["NO_ATTN", "SOFT_ATTN"]
 
 NUM_SENTENCES = 50000
 
-DATASET = ["OPEN_SUB", "INUKTITUT"][1]
+DATASET = ["OPEN_SUB", "INUKTITUT"][0]
 
 EXP_NAME_PREFIX="baseline"
 
@@ -114,7 +114,7 @@ create_buckets_flag = False
 #---------------------------------------------------------------------
 # if 0 - will only load a previously saved model if it exists
 #---------------------------------------------------------------------
-NUM_EPOCHS = 0
+NUM_EPOCHS = 15
 
 # Change the dev set to include all the sentences not used for training, instead of 500
 # Using all during training impacts timing
