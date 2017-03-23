@@ -645,11 +645,14 @@ def main():
     max_epoch_id = 0
     if os.path.exists(model_fil):
         # check last saved epoch model:
-        for fname in os.listdir(model_dir):
+        for fname in [f for f in os.listdir(model_dir) if f.endswith("")]:
             if model_fil != os.path.join(model_dir, fname) and model_fil.replace(".model", "") in os.path.join(model_dir, fname):
-                epoch_id = int(fname.split("_")[-1].replace(".model", ""))
-                if epoch_id > max_epoch_id:
-                    max_epoch_id = epoch_id
+                try:
+                    epoch_id = int(fname.split("_")[-1].replace(".model", ""))
+                    if epoch_id > max_epoch_id:
+                        max_epoch_id = epoch_id
+                except:
+                    print("{0:s} not a valid model file".format(fname))
         print("last saved epoch model={0:d}".format(max_epoch_id))
 
         if load_existing_model:
