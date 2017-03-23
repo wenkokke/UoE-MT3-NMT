@@ -102,7 +102,13 @@ i2w_path = os.path.join(input_dir, "i2w.dict")
 num_layers_enc = 3
 num_layers_dec = 3
 use_attn = SOFT_ATTN
+#---------------------------------------------------------------------
+# !! NOTE !!
+#---------------------------------------------------------------------
+# FOR INUKTITUT-ENGLISH baseline model, the hidden units should be set to 200
+# FOR HUNGARIAN-ENGLISH baseline model, the hidden units should be set to 100
 hidden_units = 200
+
 load_existing_model = True
 create_buckets_flag = False
 #---------------------------------------------------------------------
