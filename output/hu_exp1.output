@@ -1,0 +1,266 @@
+Open subtitles dataset configuration
+vocab size, en=13070, fr=36012
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.model
+here False
+not creating buckets as requested. will crash if buckets not present
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 326.962941
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_1.model
+BLEU: 7.21
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 186.754104
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_2.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 135.081293
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_3.model
+BLEU: 10.01
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 113.505444
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_4.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 101.300255
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_5.model
+BLEU: 11.39
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 86.610470
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_6.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 78.048168
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_7.model
+BLEU: 13.33
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 75.798783
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_8.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 75.512586
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_9.model
+BLEU: 14.02
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 73.308448
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_10.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 69.024793
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_11.model
+BLEU: 15.80
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 71.257792
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_12.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 73.248444
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_13.model
+BLEU: 14.92
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 80.553738
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_14.model
+finished training on 45000 sentences
+--------------------------------------------------
+computing perplexity
+--------------------------------------------------
+dev perplexity | 84.899073
+# words in dev |   3182
+--------------------------------------------------
+Saving model
+Finished saving model
+wooohooo!
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN_15.model
+BLEU: 15.83
+Simple predictions (╯°□°）╯︵ ┻━┻
+training set predictions
+English predictions, s=0, num=2:
+--------------------------------------------------
+sentence: 0
+Src | Álmomban sem hittem volna                                                       
+Ref | i never dreamed before                                                          
+Hyp | i ve never never unfortunate a fear _EOS                                        
+--------------------------------------------------
+precision | 0.2857
+recall | 0.5000
+--------------------------------------------------
+sentence: 1
+Src | hogy az ajtók megnyílnak sorba előttem egy szabad világ felé                    
+Ref | i m gonna knock the door into the world of perfect free                         
+Hyp | how you played to to ship world security _EOS                                   
+--------------------------------------------------
+precision | 0.1250
+recall | 0.0833
+sentences matching filter = 2
+Simple predictions (╯°□°）╯︵ ┻━┻
+dev set predictions
+English predictions, s=45000, num=3:
+--------------------------------------------------
+sentence: 45000
+Src | - rendben                                                                       
+Ref | - all right                                                                     
+Hyp | - right right right right right _EOS                                            
+--------------------------------------------------
+precision | 0.3333
+recall | 0.6667
+--------------------------------------------------
+sentence: 45001
+Src | cesca                                                                           
+Ref | cesca cesca                                                                     
+Hyp | cesca cesca cesca cesca sheath cesca _EOS                                       
+--------------------------------------------------
+precision | 0.3333
+recall | 1.0000
+--------------------------------------------------
+sentence: 45002
+Src | nem látok                                                                       
+Ref | i can t see                                                                     
+Hyp | i don t don t don t don t don don don don don don _EOS                          
+--------------------------------------------------
+precision | 0.1333
+recall | 0.5000
+sentences matching filter = 3
+--------------------------------------------------
+BLEU: 15.83
+--------------------------------------------------
+Final saving model
+Finished saving model
+hu_en_model_50000/train_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/dev_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.log
+hu_en_model_50000/seq2seq_50000sen_1-1layers_100units_exp1_budoslab_SOFT_ATTN.model
+BLEU: 15.83
