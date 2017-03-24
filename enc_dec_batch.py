@@ -39,10 +39,10 @@ class EncoderDecoder(Chain):
         #--------------------------------------------------------------------
         # add encoder layers
         #--------------------------------------------------------------------
-        
+
         # add embedding layer
         self.add_link("embed_enc", L.EmbedID(vsize_enc, n_units))
-        
+
         # add LSTM layers
         self.lstm_enc = ["L{0:d}_enc".format(i) for i in range(nlayers_enc)]
         for lstm_name in self.lstm_enc:
@@ -56,10 +56,10 @@ class EncoderDecoder(Chain):
         #--------------------------------------------------------------------
         # add decoder layers
         #--------------------------------------------------------------------
-        
+
         # add embedding layer
         self.add_link("embed_dec", L.EmbedID(vsize_dec, 2*n_units))
-        
+
         # add LSTM layers
         self.lstm_dec = ["L{0:d}_dec".format(i) for i in range(nlayers_dec)]
         for lstm_name in self.lstm_dec:
@@ -69,16 +69,16 @@ class EncoderDecoder(Chain):
             # add context layer for attention
             self.add_link("context", L.Linear(4*n_units, 2*n_units))
         self.attn = attn
-        
+
         # add output layer
         self.add_link("out", L.Linear(2*n_units, vsize_dec))
-        
+
         # Store GPU id
         self.gpuid = gpuid
         self.n_units = n_units
-        
+
         xp = cuda.cupy if self.gpuid >= 0 else np
-        
+
         # create masking array for pad id
         self.mask_pad_id = xp.ones(vsize_dec, dtype=xp.float32)
         # make the class weight for pad id equal to 0
@@ -135,8 +135,8 @@ class EncoderDecoder(Chain):
                            volatile=(not train)))
 
         first_entry = True
-        
-        
+
+
         # encode tokens
         for f_word, r_word in zip(var_en, var_rev_en):
             self.encode(f_word, self.lstm_enc, train)
@@ -149,15 +149,15 @@ class EncoderDecoder(Chain):
                 forward_states = self[self.lstm_enc[-1]].h
                 backward_states = self[self.lstm_rev_enc[-1]].h
                 first_entry = False
-        
+
         self.enc_states = F.concat((forward_states, backward_states), axis=1)
 
     def compute_context_vector(self, batches=True):
         xp = cuda.cupy if self.gpuid >= 0 else np
-        
+
         batch_size, n_units = self[self.lstm_dec[-1]].h.shape
         # attention weights for the hidden states of each word in the input list
-        
+
         if batches:
             # masking pad ids for attention
             weights = F.batch_matmul(self.enc_states, self[self.lstm_dec[-1]].h)
@@ -166,7 +166,7 @@ class EncoderDecoder(Chain):
             alphas = F.softmax(weights)
 
             # compute context vector
-            cv = F.reshape(F.batch_matmul(F.swapaxes(self.enc_states, 2, 1), alphas), 
+            cv = F.reshape(F.batch_matmul(F.swapaxes(self.enc_states, 2, 1), alphas),
                                          shape=(batch_size, n_units))
         else:
             # without batches
@@ -177,7 +177,7 @@ class EncoderDecoder(Chain):
                 cv = F.transpose(F.sum(cv, axis=0))
             else:
                 print("nothing to see here ...")
-            
+
         return cv, alphas
 
     #--------------------------------------------------------------------
@@ -277,8 +277,8 @@ class EncoderDecoder(Chain):
         # decode starting with GO_ID
         predicted_sent, alpha_arr = self.decoder_predict(GO_ID, max_predict_len)
         return predicted_sent, alpha_arr
-    
-    
+
+
     #--------------------------------------------------------------------
     # For batch size > 1
     #--------------------------------------------------------------------
@@ -301,45 +301,45 @@ class EncoderDecoder(Chain):
         var_rev_en = (Variable(rev_encoder_batch.T, volatile=(not train)))
 
         first_entry = True
-        
+
         seq_len, batch_size = var_en.shape
 
         if self.attn:
             self.mask = self.xp.expand_dims(fwd_encoder_batch != 0, -1)
-            self.minf = Variable(self.xp.full((batch_size, seq_len, 1), -1000., 
-                                 dtype=self.xp.float32), volatile=not train)            
+            self.minf = Variable(self.xp.full((batch_size, seq_len, 1), -1000.,
+                                 dtype=self.xp.float32), volatile=not train)
 
         # for all sequences in the batch, feed the characters one by one
         for i in range(seq_len):
             # encode tokens
             w = var_en[i]
             rev_w = var_rev_en[i]
-            
+
             self.encode(w, self.lstm_enc, train)
             self.encode(rev_w, self.lstm_rev_enc, train)
 
             if first_entry == False:
-                
-                self.forward_states = F.concat((self.forward_states, 
-                                                F.reshape(self[self.lstm_enc[-1]].h, 
+
+                self.forward_states = F.concat((self.forward_states,
+                                                F.reshape(self[self.lstm_enc[-1]].h,
                                                 shape=(batch_size, 1, self.n_units))), axis=1)
-                
-                self.backward_states = F.concat((F.reshape(self[self.lstm_rev_enc[-1]].h, 
+
+                self.backward_states = F.concat((F.reshape(self[self.lstm_rev_enc[-1]].h,
                                                 shape=(batch_size, 1, self.n_units)),
                                                 self.backward_states), axis=1)
             else:
-                self.forward_states = F.reshape(self[self.lstm_enc[-1]].h, 
+                self.forward_states = F.reshape(self[self.lstm_enc[-1]].h,
                                                 shape=(batch_size, 1, self.n_units))
-                
-                self.backward_states = F.reshape(self[self.lstm_rev_enc[-1]].h, 
+
+                self.backward_states = F.reshape(self[self.lstm_rev_enc[-1]].h,
                                                 shape=(batch_size, 1, self.n_units))
-                
-                
+
+
                 first_entry = False
-        
+
         self.enc_states = F.concat((self.forward_states, self.backward_states), axis=2)
-    
-    
+
+
     #--------------------------------------------------------------------
     # For batch size > 1
     #--------------------------------------------------------------------
@@ -347,18 +347,18 @@ class EncoderDecoder(Chain):
         xp = cuda.cupy if self.gpuid >= 0 else np
         # convert list of tokens into chainer variable list
         var_dec = (Variable(decoder_batch.T, volatile=(not train)))
-        
+
         # Initialise first decoded word to GOID
-        pred_w = var_dec[0]
-        
+        pred_word = var_dec[0]
+
         loss = 0
-        
+
         seq_len, batch_size = var_dec.shape
         # for all sequences in the batch, feed the characters one by one
         for i in range(1, seq_len):
             # encode tokens
-            self.decode(pred_w, train)
-            
+            self.decode(pred_word, train)
+
             if self.attn:
                 cv, _ = self.compute_context_vector()
                 cv_hdec = F.concat((cv, self[self.lstm_dec[-1]].h), axis=1)
@@ -366,41 +366,40 @@ class EncoderDecoder(Chain):
                 predicted_out = self.out(ht)
             else:
                 predicted_out = self.out(self[self.lstm_dec[-1]].h)
-                
-            
+
             prob = F.softmax(predicted_out)
-            pred_word = F.argmax(prob)
-            
+            pred_word = F.expand_dims(F.argmax(prob, axis=1), -1)
+
             w = var_dec[i]
-            loss_arr = F.softmax_cross_entropy(predicted_out, w, 
+            loss_arr = F.softmax_cross_entropy(predicted_out, w,
                                                class_weight=self.mask_pad_id)
             loss += loss_arr
-        
+
         return loss
-    
+
     #--------------------------------------------------------------------
     # For batch size > 1
     #--------------------------------------------------------------------
     def encode_decode_train_batch(self, batch_data, src_lim, tar_lim, train=True):
         xp = cuda.cupy if self.gpuid >= 0 else np
         self.reset_state()
-        
+
         fwd_encoder_batch = xp.empty((0, src_lim), dtype=xp.int32)
         rev_encoder_batch = xp.empty((0, src_lim), dtype=xp.int32)
         decoder_batch = xp.empty((0, tar_lim+2), dtype=xp.int32)
-        
+
         for src, tar in batch_data:
             fwd_encoder_batch = xp.vstack((fwd_encoder_batch, self.pad_list(src, src_lim)))
             rev_encoder_batch = xp.vstack((rev_encoder_batch, self.pad_list(src[::-1], src_lim)))
-            
+
             tar_data = [GO_ID] + tar + [EOS_ID]
-            decoder_batch = xp.vstack((decoder_batch, self.pad_list(tar_data, 
+            decoder_batch = xp.vstack((decoder_batch, self.pad_list(tar_data,
                                                                     tar_lim+2, at_start=False)))
-        
+
         # encode list of words/tokens
         self.encode_batch(fwd_encoder_batch, rev_encoder_batch, train=train)
-        
-        
+
+
         # initialize decoder LSTM to final encoder state
         self.set_decoder_state()
         # decode and compute loss
