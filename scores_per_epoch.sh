@@ -1,10 +1,5 @@
 #!/bin/bash
 
-OUTPUT_FILE=$1
-if [ ! -f $OUTPUT_FILE ]; then
-    exit 1
-fi
-
 # activate the proper conda environment
 source activate mtenv
 
@@ -22,13 +17,12 @@ print(model_fil)
 EOF`
 
 # move the default model file to a temporary directory
-TMPDIR=`mktemp -d 2>/dev/null || mktemp -d -t 'MT3'`
-mv "$MODEL_FILE" "$TMPDIR/$(basename $MODEL_FILE)"
+mv "$MODEL_FILE" "$MODEL_FILE.bak"
 
 # run the computation once for each model
 MODEL_BASENAME="${MODEL_FILE%.*}"
-for model_at_epoch in "$MODEL_BASENAME*.model"; do
-    echo "$model_at_epoch" > $OUTPUT_FILE
+for model_at_epoch in $MODEL_BASENAME*.model; do
+    echo "$model_at_epoch"
     ln -s "$model_at_epoch" "$MODEL_FILE"
     python <<EOF
 # coding: utf-8
@@ -36,9 +30,9 @@ from nmt_translate import *
 main()
 compute_dev_bleu()
 compute_dev_pplx()
-EOF > $OUTPUT_FILE
-    unlink "$MODEL_FILE"
+EOF
+    rm "$MODEL_FILE"
 done
 
 # move the default model file back
-mv "$TMPDIR/$(basename $MODEL_FILE)" "$MODEL_FILE"
+mv "$MODEL_FILE.bak" "$MODEL_FILE"
