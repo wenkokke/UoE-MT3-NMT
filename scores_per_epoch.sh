@@ -1,5 +1,10 @@
 #!/bin/bash
 
+OUTPUT_FILE=$1
+if [ ! -f $OUTPUT_FILE ]; then
+    exit 1
+fi
+
 # activate the proper conda environment
 source activate mtenv
 
@@ -23,7 +28,7 @@ mv "$MODEL_FILE" "$TMPDIR/$(basename $MODEL_FILE)"
 # run the computation once for each model
 MODEL_BASENAME="${MODEL_FILE%.*}"
 for model_at_epoch in "$MODEL_BASENAME*.model"; do
-    echo "$model_at_epoch"
+    echo "$model_at_epoch" > $OUTPUT_FILE
     ln -s "$model_at_epoch" "$MODEL_FILE"
     python <<EOF
 # coding: utf-8
@@ -31,7 +36,7 @@ from nmt_translate import *
 main()
 compute_dev_bleu()
 compute_dev_pplx()
-EOF
+EOF > $OUTPUT_FILE
     unlink "$MODEL_FILE"
 done
 
