@@ -110,7 +110,7 @@ use_attn = SOFT_ATTN
 hidden_units = 200
 
 load_existing_model = True
-create_buckets_flag = True
+create_buckets_flag = False
 #---------------------------------------------------------------------
 # Training Parameters
 #---------------------------------------------------------------------
@@ -120,7 +120,7 @@ create_buckets_flag = True
 #---------------------------------------------------------------------
 # if 0 - will only load a previously saved model if it exists
 #---------------------------------------------------------------------
-NUM_EPOCHS = 40
+NUM_EPOCHS = 0
 
 # Change the dev set to include all the sentences not used for training, instead of 500
 # Using all during training impacts timing
