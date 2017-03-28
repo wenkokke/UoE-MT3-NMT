@@ -23,7 +23,7 @@ mv "$MODEL_FILE" "$MODEL_FILE.bak"
 MODEL_BASENAME="${MODEL_FILE%.*}"
 for model_at_epoch in $MODEL_BASENAME*.model; do
     echo "$model_at_epoch"
-    ln -s "$model_at_epoch" "$MODEL_FILE"
+    mv "$model_at_epoch" "$MODEL_FILE"
     python <<EOF
 # coding: utf-8
 from nmt_translate import *
@@ -31,7 +31,7 @@ main()
 compute_dev_bleu()
 compute_dev_pplx()
 EOF
-    rm "$MODEL_FILE"
+    mv "$MODEL_FILE" "$model_at_epoch"
 done
 
 # move the default model file back
