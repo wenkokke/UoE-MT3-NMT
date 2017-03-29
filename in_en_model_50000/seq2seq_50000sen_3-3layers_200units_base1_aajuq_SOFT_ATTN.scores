@@ -1,0 +1,640 @@
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 12.03
+--------------------------------------------------
+dev perplexity | 144.454136
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 12.80
+--------------------------------------------------
+dev perplexity | 113.661497
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 12.08
+--------------------------------------------------
+dev perplexity | 105.921376
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 13.23
+--------------------------------------------------
+dev perplexity | 95.571114
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 13.95
+--------------------------------------------------
+dev perplexity | 109.749462
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 13.19
+--------------------------------------------------
+dev perplexity | 104.577456
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 12.58
+--------------------------------------------------
+dev perplexity | 112.191352
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 11.80
+--------------------------------------------------
+dev perplexity | 134.331608
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 12.54
+--------------------------------------------------
+dev perplexity | 140.906616
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 16.43
+--------------------------------------------------
+dev perplexity | 128.871746
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 18.55
+--------------------------------------------------
+dev perplexity | 242.181155
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 20.45
+--------------------------------------------------
+dev perplexity | 337.928966
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 27.23
+--------------------------------------------------
+dev perplexity | 208.867810
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 27.98
+--------------------------------------------------
+dev perplexity | 301.826933
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 25.05
+--------------------------------------------------
+dev perplexity | 356.211386
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 25.92
+--------------------------------------------------
+dev perplexity | 370.179734
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 24.74
+--------------------------------------------------
+dev perplexity | 457.194348
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 25.43
+--------------------------------------------------
+dev perplexity | 610.694216
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 21.51
+--------------------------------------------------
+dev perplexity | 676.190131
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 20.62
+--------------------------------------------------
+dev perplexity | 686.473560
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 20.52
+--------------------------------------------------
+dev perplexity | 1018.573163
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 19.99
+--------------------------------------------------
+dev perplexity | 1386.111615
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 18.64
+--------------------------------------------------
+dev perplexity | 1558.469464
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 20.31
+--------------------------------------------------
+dev perplexity | 1366.458325
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 17.82
+--------------------------------------------------
+dev perplexity | 1328.218870
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 19.74
+--------------------------------------------------
+dev perplexity | 1707.129847
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 20.88
+--------------------------------------------------
+dev perplexity | 1366.241025
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 16.67
+--------------------------------------------------
+dev perplexity | 2227.800490
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 18.38
+--------------------------------------------------
+dev perplexity | 2317.596061
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 15.58
+--------------------------------------------------
+dev perplexity | 4630.233565
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 14.76
+--------------------------------------------------
+dev perplexity | 6721.304420
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 15.08
+--------------------------------------------------
+dev perplexity | 4219.624737
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 17.66
+--------------------------------------------------
+dev perplexity | 6919.889472
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 15.62
+--------------------------------------------------
+dev perplexity | 5643.706796
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 16.13
+--------------------------------------------------
+dev perplexity | 5932.304598
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 17.06
+--------------------------------------------------
+dev perplexity | 5861.255032
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 16.74
+--------------------------------------------------
+dev perplexity | 5936.084230
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 18.04
+--------------------------------------------------
+dev perplexity | 6101.572025
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 16.97
+--------------------------------------------------
+dev perplexity | 9173.009753
+# words in dev |  47309
+--------------------------------------------------
+Inuktitut English dataset configuration
+vocab size, en=9363, fr=64858
+in_en_model_50000/train_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.log
+in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+here True
+not creating buckets as requested. will crash if buckets not present
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.scores not a valid model file
+last saved epoch model=39
+loading model ...
+finished loading: in_en_model_50000/seq2seq_50000sen_3-3layers_200units_base1_aajuq_SOFT_ATTN.model
+BLEU: 15.99
+--------------------------------------------------
+dev perplexity | 13655.104602
+# words in dev |  47309
+--------------------------------------------------
