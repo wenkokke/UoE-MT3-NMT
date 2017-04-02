@@ -96,7 +96,7 @@ def create_buckets():
     print("Splitting data into {0:d} buckets, each of width={1:d}".format(NUM_BUCKETS, buck_width))
     with open(text_fname["fr"], "rb") as fr_file, open(text_fname["en"], "rb") as en_file:
         for i, (line_fr, line_en) in enumerate(zip(fr_file, en_file), start=1):
-            if i >= NUM_TRAINING_SENTENCES:
+            if i > NUM_TRAINING_SENTENCES:
                 break
             else:
                 fr_sent = line_fr.strip().split()
