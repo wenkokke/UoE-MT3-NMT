@@ -96,19 +96,21 @@ def create_buckets():
     print("Splitting data into {0:d} buckets, each of width={1:d}".format(NUM_BUCKETS, buck_width))
     with open(text_fname["fr"], "rb") as fr_file, open(text_fname["en"], "rb") as en_file:
         for i, (line_fr, line_en) in enumerate(zip(fr_file, en_file), start=1):
-            fr_sent = line_fr.strip().split()
-            en_sent = line_en.strip().split()
+            if i >= NUM_TRAINING_SENTENCES:
+                break
+            else:
+                fr_sent = line_fr.strip().split()
+                en_sent = line_en.strip().split()
             
-            if len(fr_sent) > 0 and len(en_sent) > 0:
-                max_len = min(max(len(fr_sent), len(en_sent)), 
-                              BUCKET_WIDTH * NUM_BUCKETS)
-                buck_indx = ((max_len-1) // buck_width)
+                if len(fr_sent) > 0 and len(en_sent) > 0:
+                    max_len = min(max(len(fr_sent), len(en_sent)), 
+                                  MAX_PREDICT_LEN)
+                    buck_indx = ((max_len-1) // buck_width)
 
-                fr_ids = [w2i["fr"].get(w, UNK_ID) for w in fr_sent[:20]]
-                en_ids = [w2i["en"].get(w, UNK_ID) for w in en_sent[:20]]
+                    fr_ids = [w2i["fr"].get(w, UNK_ID) for w in fr_sent[:max_len]]
+                    en_ids = [w2i["en"].get(w, UNK_ID) for w in en_sent[:max_len]]
 
-                buckets[buck_indx].append((fr_ids, en_ids))
-                
+                    buckets[buck_indx].append((fr_ids, en_ids))
     # Saving bucket data
     print("Saving bucket data")
     for i, bucket in enumerate(buckets):
