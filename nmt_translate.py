@@ -103,8 +103,8 @@ def create_buckets():
                 en_sent = line_en.strip().split()
 
                 if len(fr_sent) > 0 and len(en_sent) > 0:
-                    max_len = min(max(len(fr_sent), len(en_sent)),
-                                  BUCKET_WIDTH * NUM_BUCKETS)
+                    max_len = min(max(len(fr_sent), len(en_sent)), 
+                                  MAX_PREDICT_LEN)
                     buck_indx = ((max_len-1) // buck_width)
 
                     fr_ids = [w2i["fr"].get(w, UNK_ID) for w in fr_sent[:max_len]]
