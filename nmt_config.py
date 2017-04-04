@@ -25,7 +25,7 @@ attn_post = ["NO_ATTN", "SOFT_ATTN"]
 
 NUM_SENTENCES = 50000
 
-DATASET = ["OPEN_SUB", "INUKTITUT"][1]
+DATASET = ["OPEN_SUB", "INUKTITUT"][0]
 
 EXP_NAME_PREFIX="baseline"
 
@@ -107,7 +107,7 @@ use_attn = SOFT_ATTN
 #---------------------------------------------------------------------
 # FOR INUKTITUT-ENGLISH baseline model, the hidden units should be set to 200
 # FOR HUNGARIAN-ENGLISH baseline model, the hidden units should be set to 100
-hidden_units = 200
+hidden_units = 100
 
 load_existing_model = True
 create_buckets_flag = False
