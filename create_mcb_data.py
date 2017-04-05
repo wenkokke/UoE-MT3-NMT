@@ -85,11 +85,11 @@ def mcb_tokenise_dir(data_dir_in,data_dir_out,fmax_size,
 
 
 # # Creating datasets
-mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb1_50000',
+mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb8_50000',
                  mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 8)
-mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb2_50000',
+mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb4_50000',
                  mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 4)
-mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb3_50000',
+mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb2_50000',
                  mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 2)
 
 
