@@ -86,22 +86,22 @@ def mcb_tokenise_dir(data_dir_in,data_dir_out,fmax_size,
 
 # # Creating datasets
 mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcbhlf_50000',
-                 fmax_size=lambda orig_size: orig_size // 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 2)
 mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcb_50000',
-                 fmax_size=lambda orig_size: orig_size)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size)
 mcb_tokenise_dir(data_dir_in='in_en_data_50000',data_dir_out='in_en_data_mcbdbl_50000',
-                 fmax_size=lambda orig_size: orig_size * 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size * 2)
 mcb_tokenise_dir(data_dir_in='fr_en_data_50000',data_dir_out='fr_en_data_mcbhlf_50000',
-                 fmax_size=lambda orig_size: orig_size // 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 2)
 mcb_tokenise_dir(data_dir_in='fr_en_data_50000',data_dir_out='fr_en_data_mcb_50000',
-                 fmax_size=lambda orig_size: orig_size)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size)
 mcb_tokenise_dir(data_dir_in='fr_en_data_50000',data_dir_out='fr_en_data_mcbdbl_50000',
-                 fmax_size=lambda orig_size: orig_size * 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size * 2)
 mcb_tokenise_dir(data_dir_in='hu_en_data_50000',data_dir_out='hu_en_data_mcbhlf_50000',
-                 fmax_size=lambda orig_size: orig_size // 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size // 2)
 mcb_tokenise_dir(data_dir_in='hu_en_data_50000',data_dir_out='hu_en_data_mcb_50000',
-                 fmax_size=lambda orig_size: orig_size)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size)
 mcb_tokenise_dir(data_dir_in='hu_en_data_50000',data_dir_out='hu_en_data_mcbdbl_50000',
-                 fmax_size=lambda orig_size: orig_size * 2)
+                 mcb_tokenise_en=False,fmax_size=lambda orig_size: orig_size * 2)
 
 
