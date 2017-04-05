@@ -103,7 +103,7 @@ def create_buckets():
                 en_sent = line_en.strip().split()
 
                 if len(fr_sent) > 0 and len(en_sent) > 0:
-                    max_len = min(max(len(fr_sent), len(en_sent)), 
+                    max_len = min(max(len(fr_sent), len(en_sent)),
                                   MAX_PREDICT_LEN)
                     buck_indx = ((max_len-1) // buck_width)
 
@@ -218,11 +218,14 @@ def compute_dev_bleu():
                     fr_ids = [w2i["fr"].get(w, UNK_ID) for w in fr_sent]
                     en_ids = [w2i["en"].get(w, UNK_ID) for w in en_sent]
 
-                    list_of_references.append(line_en.strip().decode())
+                    #list_of_references.append(line_en.strip().split().decode())
+                    reference_words = [w.decode() for w in line_en.strip().split()]
+                    list_of_references.append(reference_words)
                     pred_sent, alpha_arr = model.encode_decode_predict(fr_ids)
                     pred_words = [i2w["en"][w].decode() for w in pred_sent if w != EOS_ID]
-                    pred_sent_line = " ".join(pred_words)
-                    list_of_hypotheses.append(pred_sent_line)
+                    #pred_sent_line = " ".join(pred_words)
+                    #list_of_hypotheses.append(pred_sent_line)
+                    list_of_hypotheses.append(pred_words)
                 if i > (NUM_TRAINING_SENTENCES + NUM_DEV_SENTENCES):
                     break
 
@@ -315,7 +318,6 @@ def train_loop(text_fname, num_training, num_epochs, log_mode="a"):
         serializers.save_npz(model_fil.replace(".model", "_{0:d}.model".format(epoch+1)), model)
         print("Finished saving model")
         pplx = pplx_new
-        print("wooohooo!")
         print(log_train_fil_name)
         print(log_dev_fil_name)
         print(model_fil.replace(".model", "_{0:d}.model".format(epoch+1)))
@@ -431,7 +433,6 @@ def batch_train_loop(bucket_fname, num_epochs,
         serializers.save_npz(model_fil.replace(".model", "_{0:d}.model".format(last_epoch_id+epoch+1)), model)
         print("Finished saving model")
         pplx = pplx_new
-        print("wooohooo!")
         print(log_train_fil_name)
         print(log_dev_fil_name)
         print(model_fil.replace(".model", "_{0:d}.model".format(epoch+1)))
