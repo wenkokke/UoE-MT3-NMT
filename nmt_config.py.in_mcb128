@@ -47,9 +47,9 @@ create_buckets_flag = True
 # Data Parameters
 #---------------------------------------------------------------------
 NUM_SENTENCES = 50000
-model_dir = "in_en_model_char_{0:d}".format(NUM_SENTENCES)
-input_dir = "in_en_data_char_{0:d}".format(NUM_SENTENCES)
-data_dir  = "in_en_data_char"
+model_dir = "in_en_model_mcb128_{0:d}".format(NUM_SENTENCES)
+input_dir = "in_en_data_mcb128_{0:d}".format(NUM_SENTENCES)
+data_dir  = "in_en_data_mcb128"
 
 NUM_TRAINING_SENTENCES = (NUM_SENTENCES * 90) // 100
 NUM_DEV_SENTENCES = 500
