@@ -4,7 +4,7 @@ import os
 # THINGS THAT CHANGE A LOT
 #---------------------------------------------------------------------
 EXP_NAME = "halfjack0"
-NUM_EPOCHS = 40 # train for 40 epochs
+NUM_EPOCHS = 0 # train for 40 epochs
 #---------------------------------------------------------------------
 
 
