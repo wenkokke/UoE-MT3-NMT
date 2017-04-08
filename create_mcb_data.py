@@ -126,11 +126,5 @@ mcb_tokenise_dir(data_dir_in='in_en_data_mcb32_50000',
                  mcb_tokenise_en=False,
                  fmax_size=lambda orig_size: orig_size // 16,
                  data_dir_orig='in_en_data_50000')
-mcb_tokenise_dir(data_dir_in='in_en_data_mcb16_50000',
-                 data_dir_out='in_en_data_mcb8_50000',
-                 mcb_tokenise_en=False,
-                 fmax_size=lambda orig_size: orig_size // 8,
-                 data_dir_orig='in_en_data_50000')
-
 
 
