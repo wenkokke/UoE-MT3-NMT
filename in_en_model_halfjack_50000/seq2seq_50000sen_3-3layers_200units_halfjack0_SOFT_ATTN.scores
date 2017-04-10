@@ -1,0 +1,499 @@
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 2.52
+--------------------------------------------------
+dev perplexity | 72.285671
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 3.47
+--------------------------------------------------
+dev perplexity | 50.744066
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 3.94
+--------------------------------------------------
+dev perplexity | 42.387897
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 4.57
+--------------------------------------------------
+dev perplexity | 38.089774
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 5.18
+--------------------------------------------------
+dev perplexity | 36.054251
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 5.72
+--------------------------------------------------
+dev perplexity | 35.746808
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 6.17
+--------------------------------------------------
+dev perplexity | 33.863106
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 6.60
+--------------------------------------------------
+dev perplexity | 33.509469
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 7.69
+--------------------------------------------------
+dev perplexity | 33.184382
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 8.44
+--------------------------------------------------
+dev perplexity | 32.438613
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 8.42
+--------------------------------------------------
+dev perplexity | 32.952481
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 9.10
+--------------------------------------------------
+dev perplexity | 33.250821
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+BLEU: 8.91
+--------------------------------------------------
+dev perplexity | 34.507982
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=51
+in_en_model_halfjack_50000/train_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.log
+in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=3993
+Bucket 20, # items=11048
+Bucket 30, # items=9833
+Bucket 40, # items=3180
+Bucket 50, # items=2149
+Bucket 60, # items=1762
+Bucket 70, # items=1456
+Bucket 80, # items=1448
+Bucket 90, # items=1251
+Bucket 100, # items=1207
+Bucket 110, # items=1051
+Bucket 120, # items=908
+Bucket 130, # items=878
+Bucket 140, # items=797
+Bucket 150, # items=668
+Bucket 160, # items=608
+Bucket 170, # items=579
+Bucket 180, # items=473
+Bucket 190, # items=375
+Bucket 200, # items=1336
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.scores not a valid model file
+last saved epoch model=40
+loading model ...
+finished loading: in_en_model_halfjack_50000/seq2seq_50000sen_3-3layers_200units_halfjack0_SOFT_ATTN.model
