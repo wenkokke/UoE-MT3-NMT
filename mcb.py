@@ -107,15 +107,16 @@ assert toks_actual == toks_expected
 
 # In[102]:
 
-def mcb_iter(lex,text_in,n=1):
+def mcb_iter(lex,text_in,n=1,initial=0,total=None):
     count = collections.Counter()
     text_out = []
-    for i in progress(range(n),desc='mcb'):
-        for line in progress(text_in,desc='tok',leave=False):
+    for i in progress(range(n),initial=initial,total=total):
+        for line in text_in:
             toks = tokenise(lex,line)
             for bigram in zip(toks,toks[1:]):
                 count[bigram] += 1
-            text_out.append(toks)
+            if i == n - 1:
+                text_out.append(toks)
         bigram = ''.join(count.most_common()[0][0])
         insert(lex,bigram)
     return text_out
@@ -130,21 +131,42 @@ def mcb(data_file_in,data_patn_out,ns):
     abc = alphabet_from_text(text_in)
     lex = lexicon_from_alphabet(abc)
     
+    initial,total = 0,ns[-1]
     deltas = map(lambda x: x[1] - x[0],zip([0]+ns,ns))
     for n,delta in zip(ns,deltas):
-        text_out = mcb_iter(lex,text_in,delta)
+        text_out = mcb_iter(lex,text_in,delta,initial=initial,total=total)
         with open(data_patn_out.format(n), 'w') as data_file_out:
             for toks in text_out:
                 data_file_out.write(' '.join(toks) + '\n')
-
+        initial += delta
 
 # In[104]:
 
-ns = [100,300,500,1000,3000,5000,10000]
-mcb('goldwater/data/text.fr.raw','in_en_data_mcb_50000/text.fr.{}',ns=ns)
+def mcb_continue(data_file_in,data_patn_out,ns):
+    with open(data_file_in, 'r') as text_in:
+        text_in = [line.strip() for line in text_in]
+    
+    toks = set(itertools.chain(*[line.split() for line in text_in]))
+    lex = lexicon_from_word(toks.pop())
+    for tok in toks:
+        insert(lex,tok)
 
+    text_in = [line.replace(' '*1,' '*0) for line in text_in]
+    
+    initial,total = 0,ns[-1] - ns[0]
+    deltas = map(lambda x: x[1] - x[0],zip(ns,ns[1:]))
+    for n,delta in zip(ns[1:],deltas):
+        text_out = mcb_iter(lex,text_in,delta,initial=initial,total=total)
+        with open(data_patn_out.format(n), 'w') as data_file_out:
+            for toks in text_out:
+                data_file_out.write(' '.join(toks) + '\n')
+        initial += delta
+   
 
-# In[ ]:
+#ns = [100,300,500,1000,3000,5000,10000]
+#mcb('goldwater/data/text.fr.raw','in_en_data_mcb_50000/text.fr.{}',ns=ns)
 
+ns = [300,500,1000,3000,5000,10000]
+mcb_continue('in_en_data_mcb_50000/text.fr.300','in_en_data_mcb_50000/text.fr.{}',ns=ns)
 
 
