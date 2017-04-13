@@ -4,7 +4,7 @@ import os
 # THINGS THAT CHANGE A LOT
 #---------------------------------------------------------------------
 MCB_ITER = 100
-EXP_NAME = "mcb" + str(MCB_NUM)
+EXP_NAME = "mcb" + str(MCB_ITER)
 NUM_EPOCHS = 20 # train for 40 epochs
 #---------------------------------------------------------------------
 
