@@ -35,13 +35,16 @@ def apply_model(model_file,data_file_in,data_file_out):
 
 # In[5]:
 
+def usage():
+    print("usage: apply_model -i INPUT_FILE -o OUTPUT_FILE -m MODEL_FILE")
+
 if __name__ == "__main__":
     try:
         opts,args = getopt.getopt(sys.argv[1:],'i:o:m:',['input','output','model'])
     except getopt.GetoptError as err:
         # print help information and exit:
         print(err) # will print something like "option -a not recognized"
-        print("usage: apply_model -i INPUT_FILE -o OUTPUT_FILE -m MODEL_FILE")
+        usage()
         sys.exit(2)
     data_file_in,data_file_out,model_file = None,None,None
     for o,a in opts:
@@ -51,7 +54,10 @@ if __name__ == "__main__":
             data_file_out = a
         if o in ['-m', '--model']:
             model_file = a
-    apply_model(model_file,data_file_in,data_file_out)
+    if data_file_in and data_file_out and model_file:
+        apply_model(model_file,data_file_in,data_file_out)
+    else:
+        usage()
 
 
 # In[ ]:
