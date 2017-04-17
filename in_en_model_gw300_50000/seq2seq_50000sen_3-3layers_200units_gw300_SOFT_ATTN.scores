@@ -1,0 +1,504 @@
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.00
+--------------------------------------------------
+dev perplexity | 123.211441
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.00
+--------------------------------------------------
+dev perplexity | 110.174797
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.22
+--------------------------------------------------
+dev perplexity | 110.079730
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.36
+--------------------------------------------------
+dev perplexity | 119.310304
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.38
+--------------------------------------------------
+dev perplexity | 116.000838
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 0.74
+--------------------------------------------------
+dev perplexity | 131.459917
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 1.12
+--------------------------------------------------
+dev perplexity | 154.686990
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.24
+--------------------------------------------------
+dev perplexity | 164.296634
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.24
+--------------------------------------------------
+dev perplexity | 204.010291
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.33
+--------------------------------------------------
+dev perplexity | 215.530901
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.37
+--------------------------------------------------
+dev perplexity | 251.632034
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.40
+--------------------------------------------------
+dev perplexity | 269.739970
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.45
+--------------------------------------------------
+dev perplexity | 285.905628
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.46
+--------------------------------------------------
+dev perplexity | 299.652414
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.59
+--------------------------------------------------
+dev perplexity | 298.787625
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=17
+loading model ...
+finished loading: in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+BLEU: 2.55
+--------------------------------------------------
+dev perplexity | 338.975515
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=83377
+in_en_model_gw300_50000/train_50000sen_3-3layers_200units_gw300_SOFT_ATTN.log
+in_en_model_gw300_50000/seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.model
+here True
+Splitting data into 15 buckets, each of width=2
+Saving bucket data
+Bucket 2, # items=11654
+Bucket 4, # items=11907
+Bucket 6, # items=3380
+Bucket 8, # items=2238
+Bucket 10, # items=1776
+Bucket 12, # items=1519
+Bucket 14, # items=1370
+Bucket 16, # items=1362
+Bucket 18, # items=1212
+Bucket 20, # items=1194
+Bucket 22, # items=1109
+Bucket 24, # items=1005
+Bucket 26, # items=938
+Bucket 28, # items=881
+Bucket 30, # items=3455
+seq2seq_50000sen_3-3layers_200units_gw300_SOFT_ATTN.scores not a valid model file
+last saved epoch model=16
+loading model ...

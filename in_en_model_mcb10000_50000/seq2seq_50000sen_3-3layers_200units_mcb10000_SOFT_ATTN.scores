@@ -1,0 +1,1286 @@
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=19
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model.bak not a valid model file
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 1.49
+--------------------------------------------------
+dev perplexity | 90.119341
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 0.61
+--------------------------------------------------
+dev perplexity | 95.151982
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 1.02
+--------------------------------------------------
+dev perplexity | 89.400418
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 1.33
+--------------------------------------------------
+dev perplexity | 90.287392
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 1.49
+--------------------------------------------------
+dev perplexity | 90.119341
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 1.73
+--------------------------------------------------
+dev perplexity | 89.802407
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 2.90
+--------------------------------------------------
+dev perplexity | 89.939574
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 2.22
+--------------------------------------------------
+dev perplexity | 94.946056
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 2.28
+--------------------------------------------------
+dev perplexity | 102.626521
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.17
+--------------------------------------------------
+dev perplexity | 104.826355
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.33
+--------------------------------------------------
+dev perplexity | 111.201868
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.23
+--------------------------------------------------
+dev perplexity | 121.568088
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.22
+--------------------------------------------------
+dev perplexity | 134.365252
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.26
+--------------------------------------------------
+dev perplexity | 140.459828
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.52
+--------------------------------------------------
+dev perplexity | 130.570151
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.53
+--------------------------------------------------
+dev perplexity | 146.416481
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.41
+--------------------------------------------------
+dev perplexity | 157.772125
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=20
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.46
+--------------------------------------------------
+dev perplexity | 165.063705
+# words in dev |  47309
+--------------------------------------------------
+vocab size, en=9363, fr=7787
+in_en_model_mcb10000_50000/train_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.log
+in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+here True
+Splitting data into 20 buckets, each of width=10
+Saving bucket data
+Bucket 10, # items=30671
+Bucket 20, # items=6702
+Bucket 30, # items=4654
+Bucket 40, # items=2575
+Bucket 50, # items=315
+Bucket 60, # items=62
+Bucket 70, # items=16
+Bucket 80, # items=3
+Bucket 90, # items=1
+Bucket 100, # items=1
+Bucket 110, # items=0
+Bucket 120, # items=0
+Bucket 130, # items=0
+Bucket 140, # items=0
+Bucket 150, # items=0
+Bucket 160, # items=0
+Bucket 170, # items=0
+Bucket 180, # items=0
+Bucket 190, # items=0
+Bucket 200, # items=0
+seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.scores not a valid model file
+last saved epoch model=19
+loading model ...
+finished loading: in_en_model_mcb10000_50000/seq2seq_50000sen_3-3layers_200units_mcb10000_SOFT_ATTN.model
+BLEU: 3.56
+--------------------------------------------------
+dev perplexity | 175.879574
+# words in dev |  47309
+--------------------------------------------------
